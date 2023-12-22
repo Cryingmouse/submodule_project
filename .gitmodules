@@ -1,5 +1,0 @@
-[submodule "submodule_project"]
-	path = submodule_project
-	url = git@github.com:Cryingmouse/submodule_project.git
-
-
