@@ -49,7 +49,7 @@ def get_long_description():
 
 
 setup(
-    name='dsm_deploy',
+    name='subproject',
     version=version(),
     packages=find_packages(),
     package_data={},
